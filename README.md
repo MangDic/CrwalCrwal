@@ -1,15 +1,19 @@
 # CrwalCrwal!
  - 구글 이미지 크롤러
- <img width="200" alt="스크린샷 2022-11-22 오후 2 24 45" src="https://user-images.githubusercontent.com/44960073/203229197-a0eac7cb-68fe-4144-a0ed-e47fb53136b5.png">
- <img width="200" alt="스크린샷 2022-11-22 오후 2 24 45" src="https://user-images.githubusercontent.com/44960073/203229197-a0eac7cb-68fe-4144-a0ed-e47fb53136b5.png">
+ <img width="250" alt="스크린샷 2022-11-22 오후 2 24 45" src="https://user-images.githubusercontent.com/44960073/203229197-a0eac7cb-68fe-4144-a0ed-e47fb53136b5.png">
+ <img width="250" alt="스크린샷 2022-11-22 오후 2 24 59" src="https://user-images.githubusercontent.com/44960073/203230154-dbe6d847-46cf-4fb0-af2b-8a0a720f2d27.png">
+ 
+ 
 ---
 #### 기능
 - 텍스트를 입력하면 구글 이미지에서 검색된 결과들을 가져와 리스트로 보여줍니다.
 - 가져온 이미지들은 개별/일괄 디바이스에 다운로드가 가능합니다.
 
+
 ---
 #### 사용 기술
  - RxSwift, SwiftSoup
+
 
 ---
 #### 트러블 슈팅
