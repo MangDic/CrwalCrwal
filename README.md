@@ -12,7 +12,7 @@
 
 ---
 ### 사용 기술
- - RxSwift, SwiftSoup
+ - RxSwift, SnapKit, SwiftSoup
 
 
 ---
